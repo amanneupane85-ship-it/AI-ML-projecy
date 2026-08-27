@@ -1,1 +1,2 @@
-# AI-ML-projecy
+# AI-ML-project
+Task:Create the DataFrame from the given dataset.Explore the dataset using head(), shape, and isnull().Visualize Income vs Spending Score, separating customers who purchased and did not purchase.Select Age, Income, and SpendingScore as the features.Select Purchased as the target.Split the data into training and testing data.Train a Logistic Regression model.Make predictions on the test data.Calculate the accuracy of the model.Visualize Actual vs Predicted values.Predict whether a new customer will purchase the product
